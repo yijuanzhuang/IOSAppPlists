@@ -41,7 +41,7 @@
     <string>com.azgs.www</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>5.3.6</string>
+    <string>5.6.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
