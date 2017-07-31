@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.soarise.cn/download/cscecapp.ipa</string>
+     <string>http://111.207.45.36:9090/x5/mobileUI/portal/yiJuAnZhuang.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
