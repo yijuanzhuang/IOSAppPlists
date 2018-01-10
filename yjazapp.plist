@@ -38,10 +38,10 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.azgs.www</string>
+    <string>cn.com.azgs.www</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>5.6.0</string>
+    <string>5.6.1</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
